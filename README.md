@@ -1,3 +1,3 @@
-# chit-chat
+# Verbal-it 
 
-A simple voice AI bot with web speech API
+A simple voice bot with web speech API
